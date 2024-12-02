@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { Command } = require('commander');
 const { v4: uuidv4 } = require('uuid'); 
 const fs = require('fs');
