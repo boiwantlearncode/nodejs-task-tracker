@@ -3,8 +3,14 @@
 [Project #1](https://roadmap.sh/projects/task-tracker) of a series of projects in roadmap.sh.
 
 ### How to use
-Clone this project and run `npm link` to remove the need for the `node` prefix when running the code.
+Clone this repository.
 
+To remove the need for the `node` prefix, run
+```bash
+npm link
+```
+
+Example commands that you can run
 ```bash
 # Adding a new task
 task-cli add "Buy groceries"
