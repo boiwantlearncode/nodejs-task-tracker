@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-Project #1 of a series of projects in roadmap.sh from [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker).
+[Project #1](https://roadmap.sh/projects/task-tracker) of a series of projects in roadmap.sh.
 
 ### How to use
 Clone this project and run `npm link` to remove the need for the `node` prefix when running the code.
